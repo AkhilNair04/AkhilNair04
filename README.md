@@ -1,20 +1,17 @@
-##Hello There
+## Hello There!!
 # 💫 About Me:
 🎓 I'm currently pursuing B.Tech in Computer Science and Engineering (S4)<br>
-💻 I could collaborate on full stack projects<br>
+💻 I anticipate collaborations on full stack projects<br>
 💬 Ask me about HTML, CSS, JavaScript, React, Flask, Firebase, C, C++, Java, and Python<br>
-📫 How to reach me: yourmail@example.com<br>
+📫 How to reach me: helloakhilnair@gmail.com<br>
 ⚡ Fun fact: I’m always eager to learn new technologies when the work demands it<br>
 
 ---
 
 ## 🌐 Socials:
 <!-- Add your links in the parentheses -->
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/akhilnair04)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mtr_dean_)
 
 ---
 
@@ -28,7 +25,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
