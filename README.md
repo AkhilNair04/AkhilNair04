@@ -1,4 +1,3 @@
-## Hello There!!
 # 💫 About Me:
 🎓 I'm currently pursuing B.Tech in Computer Science and Engineering (S4)<br>
 💻 I anticipate collaborations on full stack projects<br>
