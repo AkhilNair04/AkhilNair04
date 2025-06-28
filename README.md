@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently pursuing B.Tech in Computer Science and Engineering (S4)<br>
+🎓 I'm currently pursuing B.Tech in Computer Science and Engineering (S5)<br>
 💻 I anticipate collaborations on full stack projects<br>
 💬 Ask me about HTML, CSS, JavaScript, React, Flask, Firebase, C, C++, Java, and Python<br>
 📫 How to reach me: helloakhilnair@gmail.com<br>
